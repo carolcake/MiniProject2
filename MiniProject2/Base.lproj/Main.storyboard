@@ -389,6 +389,13 @@
                                     <action selector="minecraftButton:" destination="CA2-5L-ayN" eventType="touchUpInside" id="QFm-Az-nsK"/>
                                 </connections>
                             </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="By Caroline Hsu" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ah5-5l-sk8">
+                                <rect key="frame" x="108" y="96" width="198" height="43"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" name="Charter-Roman" family="Charter" pointSize="19"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="YWc-hP-gKx"/>
                         <color key="backgroundColor" red="1" green="0.93187501371401926" blue="0.80667760911143982" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
@@ -405,8 +412,8 @@
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="vML-P1-CRo"/>
-        <segue reference="vqx-Kr-HAF"/>
+        <segue reference="cEa-8o-kYF"/>
+        <segue reference="a9Y-QV-OiG"/>
     </inferredMetricsTieBreakers>
     <resources>
         <image name="taylor playing video games" width="646" height="686"/>
