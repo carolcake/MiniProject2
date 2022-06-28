@@ -308,7 +308,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="tinted" title="⬅️" cornerStyle="capsule">
-                                    <color key="baseBackgroundColor" red="0.01117151263" green="0.99624007940000003" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                    <color key="baseBackgroundColor" red="0.1970029321512666" green="0.99624007940000003" blue="0.19166132030887204" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 </buttonConfiguration>
                                 <connections>
                                     <action selector="backButton:" destination="CA2-5L-ayN" eventType="touchUpInside" id="pGA-a0-Pl2"/>
